@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Project name="PrimExporter">
+        <File name="PrimExporter\1. SourcePrim.lsl" />
+        <File name="PrimExporter\2. SourcePrimCopier.lsl" />
+        <File name="PrimExporter\3. SourcePrimExporter.lsl" />
+        <File name="PrimExporter\DestinationPrim.lsl" />
+        <File name="PrimExporter\DestinationServer.lsl" />
+        <File name="PrimExporter\GetPrimParameters.lsl" />
+    </Project>
+    <Project name="Bottled Message">
+        <File name="Bottled Message\Give Message.lsl" />
+        <File name="Bottled Message\Message.txt" />
+        <File name="Bottled Message\PrimExport.b64" />
+    </Project>
+</NotepadPlus>
